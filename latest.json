@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0.660",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.660",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.660/TapeFiasco2_macOS_2.0.0.660.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.660/TapeFiasco2_Windows_2.0.0.660.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.660/TapeFiasco2_Linux_2.0.0.660.zip",
+  "notes": "Adds Aether, Clang, Orbit and Tremor; expanded modulation; tempo sync; stereo linking; new presets; and Linux VST3 support."
+}
