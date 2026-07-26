@@ -1,4 +1,4 @@
-# Tape Fiasco 2 v2.0.0.809
+# Tape Fiasco 2 v2.0.0.810
 
 This release contains the current Tape Fiasco 2 desktop plug-ins:
 
@@ -9,11 +9,14 @@ This release contains the current Tape Fiasco 2 desktop plug-ins:
 - Linux x86_64 VST3
 
 The macOS and Windows downloads also include the previous v2.0.0.660 installer
-as a stable fallback. Install v2.0.0.809 unless you specifically need to roll
+as a stable fallback. Install v2.0.0.810 unless you specifically need to roll
 back.
 
 Highlights:
 
+- Distort now has LOW CUT and HIGH CUT frequency-focus controls, limiting
+  nonlinear processing to the selected band while leaving frequencies outside
+  it clean
 - New Gate, Pitch Shift, Mangle, and five-mode parametric EQ effects
 - A redesigned granular Scatter effect in the reorderable FX chain, with
   clocked size/density, musical pitch intervals, synchronized scramble reads,
