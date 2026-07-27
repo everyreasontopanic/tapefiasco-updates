@@ -14,11 +14,6 @@ back.
 
 Highlights:
 
-- Adds 27 new FORCE QUIT factory presets, embedded in the plug-in so the
-  collection is available on every computer; FORCE QUIT appears first in the
-  factory category list
-- Corrects v2.0.0.813, whose clean release package omitted the FORCE QUIT
-  collection
 - Stretch now has an explicit SYNC / FREE timing switch: SYNC follows host BPM
   and PPQ with quantized Scatter jumps, while FREE restores the original
   continuous 5–100 Hz grain scheduler
