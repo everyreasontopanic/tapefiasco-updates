@@ -1,4 +1,4 @@
-# Tape Fiasco 2 v2.0.0.810
+# Tape Fiasco 2 v2.0.0.813
 
 This release contains the current Tape Fiasco 2 desktop plug-ins:
 
@@ -9,11 +9,17 @@ This release contains the current Tape Fiasco 2 desktop plug-ins:
 - Linux x86_64 VST3
 
 The macOS and Windows downloads also include the previous v2.0.0.660 installer
-as a stable fallback. Install v2.0.0.810 unless you specifically need to roll
+as a stable fallback. Install v2.0.0.813 unless you specifically need to roll
 back.
 
 Highlights:
 
+- Stretch now has an explicit SYNC / FREE timing switch: SYNC follows host BPM
+  and PPQ with quantized Scatter jumps, while FREE restores the original
+  continuous 5–100 Hz grain scheduler
+- The cog menu can force a fresh online update check at any time
+- The default Tape Fiasco palette now has brighter text, stronger borders, and
+  clearer knob background arcs
 - Distort now has LOW CUT and HIGH CUT frequency-focus controls, limiting
   nonlinear processing to the selected band while leaving frequencies outside
   it clean
@@ -21,9 +27,8 @@ Highlights:
 - A redesigned granular Scatter effect in the reorderable FX chain, with
   clocked size/density, musical pitch intervals, synchronized scramble reads,
   and extensive timing and sound-quality improvements
-- Stretch Scatter now follows host BPM and PPQ automatically; GRAIN selects
-  `1/16` through `1/512` jump divisions while standalone/no-clock operation
-  retains the original free-running behavior
+- In SYNC mode, Stretch Scatter follows host BPM and PPQ; GRAIN selects `1/16`
+  through `1/512` jump divisions
 - External sidechain input support for Animate envelope followers
 - Expanded themes and runtime theme selection
 - Numerous click-safety, visualization, modulation, iPad/AUv3, and stability

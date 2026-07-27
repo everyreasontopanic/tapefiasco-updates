@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.810",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.810",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.810/TapeFiasco2_macOS_2.0.0.810.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.810/TapeFiasco2_Windows_2.0.0.810.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.810/TapeFiasco2_Linux_2.0.0.810.zip",
-  "notes": "Adds Distort LOW CUT and HIGH CUT frequency focus; the granular Scatter redesign, Gate, Pitch Shift, Mangle and EQ; host-clocked Stretch Scatter; external envelope sidechain input; expanded themes; and extensive timing, click-safety and stability improvements."
+  "version": "2.0.0.813",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.813",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.813/TapeFiasco2_macOS_2.0.0.813.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.813/TapeFiasco2_Windows_2.0.0.813.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.813/TapeFiasco2_Linux_2.0.0.813.zip",
+  "notes": "Adds Stretch SYNC / FREE timing, manual update checks and a refreshed default palette; Distort frequency focus; the granular Scatter redesign, Gate, Pitch Shift, Mangle and EQ; sidechain input; expanded themes; and extensive timing, click-safety and stability improvements."
 }
