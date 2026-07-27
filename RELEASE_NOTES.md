@@ -1,4 +1,4 @@
-# Tape Fiasco 2 v2.0.0.813
+# Tape Fiasco 2 v2.0.0.814
 
 This release contains the current Tape Fiasco 2 desktop plug-ins:
 
@@ -9,11 +9,16 @@ This release contains the current Tape Fiasco 2 desktop plug-ins:
 - Linux x86_64 VST3
 
 The macOS and Windows downloads also include the previous v2.0.0.660 installer
-as a stable fallback. Install v2.0.0.813 unless you specifically need to roll
+as a stable fallback. Install v2.0.0.814 unless you specifically need to roll
 back.
 
 Highlights:
 
+- Adds 27 new FORCE QUIT factory presets, embedded in the plug-in so the
+  collection is available on every computer; FORCE QUIT appears first in the
+  factory category list
+- Corrects v2.0.0.813, whose clean release package omitted the FORCE QUIT
+  collection
 - Stretch now has an explicit SYNC / FREE timing switch: SYNC follows host BPM
   and PPQ with quantized Scatter jumps, while FREE restores the original
   continuous 5–100 Hz grain scheduler
