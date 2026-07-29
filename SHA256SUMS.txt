@@ -1,3 +1,3 @@
-4c0767e1521d96a192bb8c6a6c6ac22165db8ca6748763c6dd230a34e59fc73a  TapeFiasco2_macOS_2.0.0.818.zip
+93e1953ccba4a337de4c73fba06b05acdd69d3d18eec3ecd10af48afe830502f  TapeFiasco2_macOS_2.0.0.818.zip
 2d820c6268b9ac2ee2beff44098578e66cf961343239a8223892dd0cfea2c4bb  TapeFiasco2_Windows_2.0.0.818.zip
 f394c3c4cee54d1bc7555ff54c09b951494dfa997c739b5e87fdc760a976d169  TapeFiasco2_Linux_2.0.0.818.zip
