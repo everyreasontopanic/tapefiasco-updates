@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.814",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.814",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.814/TapeFiasco2_macOS_2.0.0.814.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.814/TapeFiasco2_Windows_2.0.0.814.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.814/TapeFiasco2_Linux_2.0.0.814.zip",
-  "notes": "Adds 27 embedded FORCE QUIT factory presets on every computer and places the collection first; also includes Stretch SYNC / FREE timing, manual update checks, a refreshed default palette, Distort frequency focus, granular Scatter, Gate, Pitch Shift, Mangle, EQ, sidechain input, expanded themes, and stability improvements."
+  "version": "2.0.0.818",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.818",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.818/TapeFiasco2_macOS_2.0.0.818.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.818/TapeFiasco2_Windows_2.0.0.818.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.818/TapeFiasco2_Linux_2.0.0.818.zip",
+  "notes": "Bugfixes."
 }
