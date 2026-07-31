@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.818",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.818",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.818/TapeFiasco2_macOS_2.0.0.818.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.818/TapeFiasco2_Windows_2.0.0.818.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.818/TapeFiasco2_Linux_2.0.0.818.zip",
-  "notes": "Bugfixes."
+  "version": "2.0.0.821",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.821",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.821/TapeFiasco2_macOS_2.0.0.821.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.821/TapeFiasco2_Windows_2.0.0.821.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.821/TapeFiasco2_Linux_2.0.0.821.zip",
+  "notes": "Fixes restored Animate modulation and Stutter Sequencer DAW-timeline sync."
 }
