@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.821",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.821",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.821/TapeFiasco2_macOS_2.0.0.821.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.821/TapeFiasco2_Windows_2.0.0.821.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.821/TapeFiasco2_Linux_2.0.0.821.zip",
-  "notes": "Fixes restored Animate modulation and Stutter Sequencer DAW-timeline sync."
+  "version": "2.0.0.825",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.825",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.825/TapeFiasco2_macOS_2.0.0.825.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.825/TapeFiasco2_Windows_2.0.0.825.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.825/TapeFiasco2_Linux_2.0.0.825.zip",
+  "notes": "Fixes Stutter capture rollover and sequencer dry/click transients; defaults Stutter CAPTURE to 2/4."
 }

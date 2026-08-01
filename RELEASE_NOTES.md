@@ -1,4 +1,4 @@
-# Tape Fiasco 2 v2.0.0.821
+# Tape Fiasco 2 v2.0.0.825
 
 This release contains the current Tape Fiasco 2 desktop plug-ins:
 
@@ -9,17 +9,16 @@ This release contains the current Tape Fiasco 2 desktop plug-ins:
   included for manual installation
 - Linux x86_64 VST3
 
-The macOS and Windows downloads also include the previous v2.0.0.660 installer
-as a stable fallback. Install v2.0.0.821 unless you specifically need to roll
-back.
+The macOS and Windows downloads also include v2.0.0.660 as the stable fallback.
+Install v2.0.0.825 unless you specifically need to roll back.
 
 Highlights:
 
-- Fixed restored Animate RANDOM modulators remaining idle until the plug-in
-  interface was opened
-- Fixed Stutter Sequencer timing when playback starts mid-bar or after a host
-  sleeps, seeks, or wakes the plug-in
-- Stutter Sequencer step changes now land on exact audio samples rather than
-  host audio-block boundaries
+- Fixed manual Stutter capture rollover briefly replaying the end of the
+  previous capture
+- Fixed Stutter Sequencer ON steps briefly leaking dry audio or clicking,
+  including the first capture after transport starts or the host wakes
+- Changed the default Stutter CAPTURE length from 4/4 to 2/4; existing sessions
+  and presets retain their saved CAPTURE setting
 
 Choose the ZIP for your operating system below. No GitHub account is required.
