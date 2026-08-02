@@ -7,7 +7,7 @@ Customers do not need a GitHub account to download these files.
 
 ## Current release
 
-[Download Tape Fiasco 2 v2.0.0.825](https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.825)
+[Download Tape Fiasco 2 v2.0.0.828](https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.828)
 
 Release files are copyright Phase Fiasco. This repository does not contain the
 Tape Fiasco source code or grant a license to redistribute the software.

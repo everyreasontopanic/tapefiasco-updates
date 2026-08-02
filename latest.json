@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.825",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.825",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.825/TapeFiasco2_macOS_2.0.0.825.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.825/TapeFiasco2_Windows_2.0.0.825.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.825/TapeFiasco2_Linux_2.0.0.825.zip",
-  "notes": "Fixes Stutter capture rollover and sequencer dry/click transients; defaults Stutter CAPTURE to 2/4."
+  "version": "2.0.0.828",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.828",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.828/TapeFiasco2_macOS_2.0.0.828.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.828/TapeFiasco2_Windows_2.0.0.828.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.828/TapeFiasco2_Linux_2.0.0.828.zip",
+  "notes": "Fixes Perform MACRO 1-4 automation and linked modulation routing when the plug-in editor is closed."
 }
