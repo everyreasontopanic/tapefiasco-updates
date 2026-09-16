@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0.828",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.0.828",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.828/TapeFiasco2_macOS_2.0.0.828.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.828/TapeFiasco2_Windows_2.0.0.828.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.0.828/TapeFiasco2_Linux_2.0.0.828.zip",
-  "notes": "Fixes Perform MACRO 1-4 automation and linked modulation routing when the plug-in editor is closed."
+  "version": "2.0.1.894",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.1.894",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.1.894/TapeFiasco2_macOS_2.0.1.894.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.1.894/TapeFiasco2_Windows_2.0.1.894.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.1.894/TapeFiasco2_Linux_2.0.1.894.zip",
+  "notes": "Adds the FORMANT SHIFT effect and MANGLE's MELT engine, a MANUAL link in the cog menu, and a what's-new sheet on first open."
 }
