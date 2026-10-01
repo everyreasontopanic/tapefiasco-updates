@@ -1,29 +1,23 @@
-# Tape Fiasco 2 v2.0.1.894
+# Tape Fiasco 2 v2.0.2.937
 
-This release contains the current Tape Fiasco 2 desktop plug-ins:
+Built on GitHub Actions for macOS, Windows and Linux from source commit 494d5eeb05ce75086d28dc5fd3557f19d24c8889.
 
-- macOS Universal AU and VST3 (`arm64` and `x86_64`) in a double-click `.pkg`
-  installer, signed with Developer ID, notarized by Apple, and stapled for
-  offline validation
-- Windows x64 VST3 in an unsigned `.exe` installer, with the raw VST3 bundle
-  also included for manual installation
-- Linux x86_64 VST3
+Changes since the previous desktop release (2.0.1.894):
 
-The macOS and Windows downloads also include v2.0.0.828 as the stable fallback.
-Install v2.0.1.894 unless you specifically need to roll back.
+- SERIAL/PARALLEL FX routing.
+- Per-effect gain compensation from -12 to +12 dB.
+- PITCH SHIFT now includes Pitch, Frequency and Ring modes, fine tuning, stereo spread, delay, feedback tone, and scale/root snapping.
+- LINKED/INDEPENDENT Stretch speed and pitch controls.
+- Improved DRIP spring-reverb decay and recovery from invalid audio.
+- Shift-drag FX knobs for fine adjustment.
+- Updated release notes shown on first open and available again from the version number.
 
-Highlights:
+Downloads:
 
-- New FORMANT SHIFT effect (PITCH category): a spectral-envelope shifter that
-  moves the formants without moving the pitch. SHIFT, DETAIL, SIZE (512 to 4K,
-  switchable live without clicks) and MIX, all four modulation targets
-- MANGLE gains a MELT engine (MODE / LIFT / PUMP / GRIT), a three-band
-  upward-lifting compressor next to the unchanged CLASSIC engine. Older
-  presets keep CLASSIC
-- MANUAL item in the header cog menu opens the online user manual
-- One-time what's-new sheet on the first open after updating
-- FX dice-strength badges follow window resizing
-- Perform adjust-curve popup is legible on light and inverted themes
-- Version numbering moves from 2.0.0.x to 2.0.1.x
+- macOS: Universal AU and VST3 (Apple Silicon and Intel), delivered in a Developer ID signed, Apple-notarized and stapled PKG installer.
+- Windows: x64 VST3, an EXE installer and a VST3 bundle for manual installation.
+- Linux: x86_64 VST3 with installation instructions.
 
-Choose the ZIP for your operating system below. No GitHub account is required.
+The macOS and Windows ZIPs retain v2.0.0.828 as a fallback, as in the previous release. Install v2.0.2.937 for the current features and fixes.
+
+The plugin's update checker reads the public latest.json manifest. Automatic checks may use a cached result for up to 24 hours; Check for updates in the cog menu refreshes immediately.
