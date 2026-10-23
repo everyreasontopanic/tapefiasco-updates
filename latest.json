@@ -1,8 +1,8 @@
 {
-  "version": "2.0.2.937",
-  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.2.937",
-  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.2.937/TapeFiasco2_macOS_2.0.2.937.zip",
-  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.2.937/TapeFiasco2_Windows_2.0.2.937.zip",
-  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.2.937/TapeFiasco2_Linux_2.0.2.937.zip",
-  "notes": "Adds serial/parallel FX routing, per-effect gain, expanded Pitch Shift modes, independent Stretch speed/pitch, improved DRIP decay, and updated release notes."
+  "version": "2.0.4.974",
+  "url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/tag/v2.0.4.974",
+  "macos_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.4.974/TapeFiasco2_macOS_2.0.4.974.zip",
+  "windows_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.4.974/TapeFiasco2_Windows_2.0.4.974.zip",
+  "linux_url": "https://github.com/everyreasontopanic/tapefiasco-updates/releases/download/v2.0.4.974/TapeFiasco2_Linux_2.0.4.974.zip",
+  "notes": "Adds 31 new effects in ten FX categories, new controls on many existing effects, latency compensation for FFT effects, and a Windows FX page speed fix."
 }
